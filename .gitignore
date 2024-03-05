@@ -1,0 +1,15 @@
+**/cmake-build-debug/**
+**/cmake-build-release/**
+**/.idea/**
+**/.vscode/**
+**/build/**
+**/infer_res/**
+**/pro
+**/*.so
+**/*.pt
+**/*.pth
+**/*.tar
+**/*.onnx
+**/*.engine
+**/*.trt
+**/*.trtmodel
